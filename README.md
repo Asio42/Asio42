@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
- <img src="https://giphy.com/embed/sE1fbQPozKg3q5I2W2"/>
+ <img src="https://giphy.com/gifs/rock-coding-programming-MdA16VIoXKKxNE8Stk" width="200"/>
  <h1>Hi there 👋</h1>
 </div>
 <!--
