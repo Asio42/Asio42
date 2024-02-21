@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
- <iframe src="https://giphy.com/embed/l0HlCkojKEiPhw86Y" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/skeleton-waiting-l0HlCkojKEiPhw86Y">via GIPHY</a></p>
+ <img src="https://giphy.com/embed/l0HlCkojKEiPhw86Y"/>
  <h1>Hi there 👋</h1>
 </div>
 <!--
