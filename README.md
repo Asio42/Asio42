@@ -1,5 +1,6 @@
 
 <div id="header" align="center">
+ <img rsc="https://giphy.com/embed/sE1fbQPozKg3q5I2W2"/>
  <h1>Hi there 👋</h1>
 </div>
 <!--
