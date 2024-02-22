@@ -1,7 +1,8 @@
 <div id="header" align="center">
  <img src="https://media1.tenor.com/m/yV1q2IFAQsIAAAAC/retrowave-retrodrive.gif" width="200"/>
- <h1>¡Hola! 👋</h1>  
+ <h1>¡string.string y mas strings! 👋</h1>  
  <hr> <!-- Línea horizontal -->
+ <img src="https://img.shields.io/badge/string-string-violet"/> <img src="https://img.shields.io/badge/string-string-violet"/> <img src="https://img.shields.io/badge/string-string-violet"/> <img src="https://img.shields.io/badge/string-string-violet"/> <img src="https://img.shields.io/badge/string-string-violet"/> <img src="https://img.shields.io/badge/string-string-violet"/> <img src="https://img.shields.io/badge/string-string-violet"/>
 </div>
 
 
