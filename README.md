@@ -3,15 +3,8 @@
  <h1>¡string.string y mas strings! 👋</h1>  
  <hr> <!-- Línea horizontal -->
  <img src="https://img.shields.io/badge/string-string-violet"/> <img src="https://img.shields.io/badge/string-string-violet"/> <img src="https://img.shields.io/badge/string-string-violet"/> <img src="https://img.shields.io/badge/string-string-violet"/> <img src="https://img.shields.io/badge/string-string-violet"/> <img src="https://img.shields.io/badge/string-string-violet"/> <img src="https://img.shields.io/badge/string-string-violet"/>
- <style>
-  .horizontal-line {
-    border: 1px solid #ff0000; /* Cambia el color de la línea a rojo (#ff0000) */
-    background-color: #ff0000; /* Cambia el color de fondo de la línea a rojo (#ff0000) */
-    height: 2px; /* Cambia el grosor de la línea */
-    margin: 20px 0; /* Ajusta el margen superior e inferior de la línea */
-  }
-</style>
-   <hr class="horizontal-line"> <!-- Línea horizontal con clase "horizontal-line" -->
+
+ <hr class="horizontal-line"> <!-- Línea horizontal con clase "horizontal-line" -->
 
 </div>
 
