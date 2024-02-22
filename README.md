@@ -1,5 +1,5 @@
 <div id="header" aling="center">
- <div class="tenor-gif-embed" data-postid="5251904257118298829" data-share-method="host" data-aspect-ratio="1.29016" data-width="100%"><a href="https://tenor.com/view/shigure-ui-dance-ui-mama-ui-shigure-vtuber-gif-5251904257118298829">Shigure Ui Dance GIF</a>from <a href="https://tenor.com/search/shigure+ui-gifs">Shigure Ui GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ <img src="https://tenor.com/search/shigure+ui-gifs" />
  <h1>Hi there 👋</h1>  
 </div>
 <!--
