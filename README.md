@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://i.imgur.com/https://tenor.com/es/view/mesugaki-trezdo-shigure-ui-dance-gif-3567014781751424951" width="200"/>
+ <img src="https://i.imgur.com/https:/tenor.com/es/view/mesugaki-trezdo-shigure-ui-dance-gif-3567014781751424951" width="200"/>
  <h1>¡Hola! 👋</h1>  
 </div>
 
