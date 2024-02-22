@@ -2,7 +2,7 @@
  <img src="https://media1.tenor.com/m/yV1q2IFAQsIAAAAC/retrowave-retrodrive.gif" width="200"/>
  <h1>¡Hola! 👋</h1>  
  <img src="https://img.shields.io/badge/monal-subcribete-violet"/>
- ---
+ <hr> <!-- Línea horizontal -->
 </div>
 
 
