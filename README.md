@@ -1,7 +1,8 @@
-<div id="header" aling="center">
- <img src="https://tenor.com/es/view/mesugaki-trezdo-shigure-ui-dance-gif-3567014781751424951" width="200"/>
- <h1>Hi there 👋</h1>  
+<div id="header" align="center">
+ <img src="https://i.imgur.com/tu_imagen.jpg" width="200"/>
+ <h1>¡Hola! 👋</h1>  
 </div>
+
 <!--
 **Asio42/Asio42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
