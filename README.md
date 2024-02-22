@@ -1,6 +1,7 @@
-
-<iframe src="https://giphy.com/embed/M7pccJ6alG6FCbfYlV" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
- <h1>Hi there 👋</h1>
+<div id="header" aling="center">
+ <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200"/>
+ <h1>Hi there 👋</h1>  
+</div>
 <!--
 **Asio42/Asio42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
