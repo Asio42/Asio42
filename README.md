@@ -3,12 +3,9 @@
  <h1>¡string.string y mas strings! 👋</h1>  
  <hr> <!-- Línea horizontal -->
  <img src="https://img.shields.io/badge/string-string-violet"/> <img src="https://img.shields.io/badge/string-string-violet"/> <img src="https://img.shields.io/badge/string-string-violet"/> <img src="https://img.shields.io/badge/string-string-violet"/> <img src="https://img.shields.io/badge/string-string-violet"/> <img src="https://img.shields.io/badge/string-string-violet"/> <img src="https://img.shields.io/badge/string-string-violet"/>
-
- <hr class="horizontal-line"> <!-- Línea horizontal con clase "horizontal-line" -->
-
+ <hr>
 </div>
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <!--
 **Asio42/Asio42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
